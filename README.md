@@ -8,17 +8,19 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💼 Estagiando como **Desenvolvedor Web e Inteligência Artificial** na agência Growe.
+- 💼 Estagiando como **Desenvolvedor Web e Inteligência Artificial**.
 - 📚 Estudando **Programação Web Full Stack**, também estudo **inglês** e mantenho uma rotina disciplinada de aprendizado contínuo.
 - 🛠️ Tenho facilidade em resolver problemas de forma prática, sempre buscando soluções que agreguem valor aos projetos.
 - 🌍 Busco constantemente aprimorar minhas habilidades técnicas e interpessoais.
-- 🌐 Desenvolvedor de sites, com interesse em **projetos práticos e freelas** 
 - 😄 Pronomes: Ele/Dele.
 
 ---
+<p align="center">
+ 🛠️ Ferramentas & Tecnologias 
+</p>
 
-### 🛠️ Ferramentas & Tecnologias 
 <div style="display: inline_block"><br>
+  <p align="center">
   <img align="center" alt="hhl-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>
   <img align="center" alt="hhl-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hhl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,7 +30,9 @@
   <img align="center" alt="hhl-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="hhl-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   <img align="center" alt="hhl-git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  </p>
 </div>
+
 
 ---
 
