@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Hebert</h1>
+<h1 align="center"> 👨‍💻 Hebert Henrique Losi</h1>
 
 <p align="center">
   🚀 Estagiário em IA & Desenvolvimento Web • 💻 Estudante de Programação Full Stack • 💻 Gestão da tecnologia da informação
@@ -7,12 +7,10 @@
 ---
 
 ### 👨‍💻 Sobre mim
+🚀 Meu nome é Hebert, tenho 31 anos e sou natural de Minas Gerais. Em transição de carreira, venho do empreendedorismo e atualmente atuo como estagiário de IA e desenvolvimento web. Cursando o 3º Periodo de Gestão da Tecnologia da Informação,  complemento minha formação com cursos práticos em programação, aprendendo desenvolvimento Front-End e Back-End. Tenho facilidade em resolver problemas de forma prática, sempre buscando soluções que agreguem valor aos projetos. Busco constantemente aprimorar minhas habilidades técnicas e interpessoais.
 
-- 💼 Estagiando como **Desenvolvedor Web e Inteligência Artificial**.
-- 📚 Estudando **Programação Web Full Stack**, também estudo **inglês** e mantenho uma rotina disciplinada de aprendizado contínuo.
-- 🛠️ Tenho facilidade em resolver problemas de forma prática, sempre buscando soluções que agreguem valor aos projetos.
-- 🌍 Busco constantemente aprimorar minhas habilidades técnicas e interpessoais.
-- 😄 Pronomes: Ele/Dele.
+Proativo, Curioso, Autodidata, Criativo e gosto de resolver problemas.
+
 
 ---
 <p align="center">
@@ -37,19 +35,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heberthenriquelosi&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heberthenriquelosi&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=heberthenriquelosi&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heberthenriquelosi&layout=compact&theme=tokyonight" width="48%">
 </p>
 
   
   ##
- 
-<div> 
-  <p align="center">
-  <a href="https://instagram.com/heberthenrike" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/heberthenriquelosi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hebert.hk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heberthenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-</div>
+
 
