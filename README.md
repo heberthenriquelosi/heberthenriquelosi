@@ -35,7 +35,7 @@ Curso o 3º período de Gestão da Tecnologia da Informação e complemento meus
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heberthenriquelosi&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heberthenriquelosi&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heberthenriquelosi&layout=compact&theme=tokyonight&count_private=true" width="48%">
 </p>
 
 ---
