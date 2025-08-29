@@ -1,16 +1,16 @@
 <h1 align="center">👨‍💻 Hebert Henrique Losi</h1>
 
 <p align="center">
-  🚀 Estagiário em IA & Desenvolvimento Web • 💻 Estudante de Programação Full Stack • 🎓 Gestão da Tecnologia da Informação
+  🚀 Desenvolvedor Junior • 💻 Estudante de Programação Full Stack • 🎓 Gestão da Tecnologia da Informação
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Olá! Me chamo Hebert, tenho 31 anos, sou natural de Minas Gerais.
-Estou em transição de carreira para a área de tecnologia, atualmente atuo como estagiário em Inteligência Artificial e Desenvolvimento Web.
-Curso o 3º período de Gestão da Tecnologia da Informação e complemento meus estudos com formações práticas em programação Full Stack, aprendendo tecnologias de Front-End e Back-End. Sou proativo, autodidata, curioso e criativo. Tenho facilidade em resolver problemas de forma prática, sempre focando em entregar soluções que gerem valor real aos projetos, habilidades estas que deselvolvi como empreendededor entre 2015 a 2025. Busco constantemente evoluir minhas habilidades técnicas e interpessoais.
+Olá! Me chamo Hebert, sou natural de Minas Gerais.
+Atualmente atuo como Desenvolvedor Junior na agencia Growe onde presto serviços para Seara do grupo JBS.
+Curso o 4º período de Gestão da Tecnologia da Informação e complemento meus estudos com formações práticas em programação Full Stack, aprendendo tecnologias de Front-End e Back-End. Sou proativo, autodidata, curioso e criativo. Tenho facilidade em resolver problemas de forma prática, sempre focando em entregar soluções que gerem valor real aos projetos.
 
 ---
 <p align="center">
